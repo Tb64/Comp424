@@ -1,0 +1,10 @@
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\bin\Debug\Comp424Assign2.exe.config
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\bin\Debug\Comp424Assign2.exe
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\bin\Debug\Comp424Assign2.pdb
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.csprojResolveAssemblyReference.cache
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.Form1.resources
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.Properties.Resources.resources
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.csproj.GenerateResource.Cache
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.csproj.CoreCompileInputs.cache
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.exe
+Z:\Code\Comp424\Comp424Assign2\Comp424Assign2\obj\Debug\Comp424Assign2.pdb
